@@ -14,7 +14,7 @@
 
   <br> <br> <br> <br>
     
-![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey676&show_icons=true&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anshulbhardwaj888&show_icons=true&locale=en&layout=compact)
+![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey676&show_icons=true&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Shrey676&show_icons=true&locale=en&layout=compact)
 
 ## Skills & Experience
 * 🐍Python
