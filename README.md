@@ -20,7 +20,9 @@
  <br> <br> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Shrey676&show_icons=true&locale=en&layout=compact)
 
-![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey676&show_icons=true&theme=radical)
+![Shrey,s GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey676&show_icons=true&hide_border=true&theme=radical)    
+
+<br/>
 
   <br> <br>
 <h2 align="center">📫 Reach out to me on</h2>
