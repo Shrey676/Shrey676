@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrey Jain.</h1>
 
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/52188816/127493913-184d5c7c-07bc-4eaa-9683-0d348a9ed705.gif" width="400" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="400" height="320" />
  
  <br>
  
